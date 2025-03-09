@@ -1,0 +1,8 @@
+torch
+clip
+Pillow
+gradio
+numpy
+scikit-learn
+python-dotenv
+pysmb
